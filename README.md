@@ -8,7 +8,7 @@
 * Prettier
 
 ## ⚠️ Dependencies
-* Node
+* Node >=20.11
 * Pnpm
 * Degit? (Not necessary, you can just create a repository directely on github using this repository as a template)
 
