@@ -1,18 +1,18 @@
 # Vite + React Template
 
-## Stack used
+## 🧱 Stack used
 * Vite
 * React
 * TailwindcSS
 * Eslint
 * Prettier
 
-## Dependencies
+## ⚠️ Dependencies
 * Node
 * Pnpm
 * Degit? (Not necessary, you can just create a repository directely on github using this repository as a template)
 
-## How clone this template?
+## ⌨️ How clone this template?
 
 First you will need [degit](https://github.com/Rich-Harris/degit).
 
