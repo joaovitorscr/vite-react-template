@@ -3,7 +3,6 @@
 ## 🧱 Stack used
 * Vite
 * React
-* TailwindcSS
 * Eslint
 * Prettier
 
