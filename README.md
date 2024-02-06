@@ -4,7 +4,8 @@
 * Vite
 * React
 * Eslint
-* Prettier
+* Prettier [Plugins: prettier-plugin-tailwindcss]
+* TailwindCSS
 
 ## ⚠️ Dependencies
 * Node >=20.11
